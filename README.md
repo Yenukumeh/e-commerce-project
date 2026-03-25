@@ -20,7 +20,7 @@ The dataset contains 500 records with information on:
   * Payment methods
 
 ## Key Findings 
-  *Total Revenue: ₦33,481,644
+  * Total Revenue: ₦33,481,644
   * Total Quantity Sold: 1,221 units
   * Top Product: Phone
   * Top Category: Home Appliances
