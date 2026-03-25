@@ -2,7 +2,7 @@
 
 ## Objective
 
-This project analyzes an e-commerce dataset to understand sales performance, customer behavior, and product trends using Python (Pandas, Matplotlib).
+This project analyzes an e-commerce dataset to understand sales trends, customer behavior, and revenue patterns using Python (Pandas, Matplotlib) to generate insights and support decision making.
 
 ## Tools Used
   * Python
@@ -19,12 +19,14 @@ The dataset contains 500 records with information on:
   *	Cities
   * Payment methods
 
+The dataset was cleaned and prepared using python before analysis.
+
 ## Key Findings 
-### Metrics
+ ### Metrics
   * Total Revenue: ₦33,481,644
   * Total Quantity Sold: 1,221 units
 
-### Insights
+ ### Insights
   * Phones generate the highest revenue among all products
   * Home Appliances outperform Electronics in total revenue
   * Kano is the highest revenue-generating city
