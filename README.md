@@ -38,15 +38,25 @@ The dataset contains 500 records with information on:
 	* Card is the most preferred payment method
 
 ## Visualizations
+ Revenue by Category 
+ ![45687c40-ad4e-49d1-b68c-77fb920fe3cc](https://github.com/user-attachments/assets/a3eae3ff-a275-49b8-b2ab-1c07c901282f)
+
+
+Revenue by City 
+![f00c65d9-dce3-40d2-8d9b-c06356a3e644](https://github.com/user-attachments/assets/f166e49f-7c9e-4421-b548-0f188c544c77)
+
+
+Monthly Sales Trend
+![8a91c02a-40f8-4189-8cb3-6e9530c61bf6](https://github.com/user-attachments/assets/69891272-e93a-4e6a-90c7-919915b6fa7e)
+
+
+Top 5 products
+![7ae9da8b-abfe-4bd6-9d0b-f4b5ae387fcb](https://github.com/user-attachments/assets/cd28c5df-18e8-4d5e-93da-dd83b66924cc)
 
 
 
-
-
-
-
-
-
+Payment Method Distribution
+![81caddfb-6506-4a1b-bcc9-53e19e11b317](https://github.com/user-attachments/assets/94bd95d1-50f6-493a-8636-0070f3283432)
 
 
 ## Business Recommendations
