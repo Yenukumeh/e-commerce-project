@@ -23,8 +23,8 @@ The dataset was cleaned and prepared using python before analysis.
 
 ## Key Findings 
  ### Metrics
-  * Total Revenue: ₦33,481,644
-  * Total Quantity Sold: 1,221 units
+  * Total Revenue: **₦33,481,644**
+  * Total Quantity Sold: **1,221 units**
 
  ### Insights
   * Phones generate the highest revenue among all products
