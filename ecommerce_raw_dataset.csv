@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Gender,Age,City,Product,Category,Price,Quantity,Payment_Method,Revenue
+1001,2024-01-01,2102,Male,23,Port Harcourt,Laptop,Home Appliances,385589,1,Transfer,385589
+1002,2024-01-02,2435,Female,35,Ibadan,Blender,Home Appliances,153892,4,Card,615568
+1003,2024-01-03,2860,Female,22,Ibadan,Blender,Electronics,259717,4,Transfer,1038868
+1004,2024-01-04,2270,Female,42,Kano,Laptop,Electronics,314167,2,Card,628334
+1005,2024-01-05,2106,Female,19,Kano,Phone,Home Appliances,169654,2,Transfer,339308
+1006,2024-01-06,2071,Female,27,Abuja,Phone,Home Appliances,240868,2,Card,481736
+1007,2024-01-07,2700,Male,47,Abuja,Blender,Home Appliances,130073,3,Transfer,390219
+1008,2024-01-08,2020,Female,22,Lagos,Laptop,Home Appliances,404341,2,Cash,808682
+1009,2024-01-09,2614,Male,50,Kano,Phone,Home Appliances,114429,4,Transfer,457716
+1010,2024-01-10,2121,Female,18,Port Harcourt,Laptop,Home Appliances,154195,1,Transfer,154195
+1011,2024-01-11,2466,Male,35,Kano,Laptop,Electronics,242699,3,Card,728097
+1012,2024-01-12,2214,Male,49,Port Harcourt,Laptop,Home Appliances,83848,2,Card,167696
+1013,2024-01-13,2330,Female,28,Ibadan,Fridge,Electronics,481020,3,Transfer,1443060
+1014,2024-01-14,2458,Female,38,Kano,Laptop,Home Appliances,458595,3,Cash,1375785
+1015,2024-01-15,2087,Female,43,Ibadan,Fridge,Home Appliances,339910,2,Cash,679820
+1016,2024-01-16,2372,Male,42,Abuja,Blender,Electronics,118099,3,Card,354297
+1017,2024-01-17,2099,Female,39,Abuja,Phone,Electronics,479276,1,Cash,479276
+1018,2024-01-18,2871,Male,44,Lagos,Phone,Electronics,119122,4,Transfer,476488
+1019,2024-01-19,2663,Male,30,Kano,Phone,Electronics,197159,4,Card,788636
+1020,2024-01-20,2130,Male,50,Ibadan,Phone,Home Appliances,98868,1,Transfer,98868
+1021,2024-01-21,2661,Female,51,Port Harcourt,Phone,Electronics,169119,3,Card,507357
+1022,2024-01-22,2308,Female,58,Abuja,Phone,Home Appliances,466441,2,Card,932882
+1023,2024-01-23,2769,Male,52,Abuja,Phone,Electronics,407430,3,Card,1222290
+1024,2024-01-24,2343,Male,18,Port Harcourt,Blender,Home Appliances,318787,1,Card,318787
+1025,2024-01-25,2491,Female,38,Ibadan,Laptop,Home Appliances,348871,3,Cash,1046613
+1026,2024-01-26,2413,Male,23,Ibadan,TV,Home Appliances,454221,4,Transfer,1816884
+1027,2024-01-27,2805,Female,45,Kano,Fridge,Home Appliances,159079,3,Transfer,477237
+1028,2024-01-28,2385,Male,34,Kano,TV,Home Appliances,377841,1,Transfer,377841
+1029,2024-01-29,2191,Female,22,Lagos,TV,Home Appliances,66029,4,Card,264116
+1030,2024-01-30,2955,Male,48,Abuja,Laptop,Electronics,296353,3,Cash,889059
+1031,2024-01-31,2276,Female,22,Kano,Laptop,Home Appliances,457442,3,Transfer,1372326
+1032,2024-02-01,2160,Male,55,Ibadan,Laptop,Electronics,244718,4,Cash,978872
+1033,2024-02-02,2459,Female,20,Port Harcourt,Phone,Electronics,471947,2,Card,943894
+1034,2024-02-03,2313,Female,40,Ibadan,Blender,Home Appliances,421602,4,Transfer,1686408
+1035,2024-02-04,2021,Male,54,Abuja,Phone,Electronics,422528,2,Cash,845056
+1036,2024-02-05,2252,Male,54,Ibadan,Blender,Home Appliances,118926,1,Card,118926
+1037,2024-02-06,2747,Female,27,Lagos,Blender,Electronics,187069,1,Cash,187069
+1038,2024-02-07,2856,Male,27,Abuja,TV,Home Appliances,367650,4,Transfer,1470600
+1039,2024-02-08,2560,Female,36,Port Harcourt,TV,Electronics,390373,4,Transfer,1561492
+1040,2024-02-09,2474,Male,34,Lagos,Blender,Home Appliances,493031,1,Card,493031
+1041,2024-02-10,2058,Female,38,Abuja,Blender,Home Appliances,92092,2,Card,184184
+1042,2024-02-11,2510,Female,31,Port Harcourt,Phone,Home Appliances,374683,1,Card,374683
+1043,2024-02-12,2681,Female,26,Lagos,Phone,Home Appliances,202889,4,Cash,811556
+1044,2024-02-13,2475,Female,18,Lagos,TV,Electronics,218933,1,Cash,218933
+1045,2024-02-14,2699,Female,30,Abuja,Laptop,Home Appliances,63428,4,Cash,253712
+1046,2024-02-15,2975,Female,21,Kano,Blender,Electronics,225006,4,Card,900024
+1047,2024-02-16,2782,Male,18,Lagos,Phone,Electronics,296627,1,Transfer,296627
+1048,2024-02-17,2189,Male,57,Lagos,TV,Electronics,295439,2,Transfer,590878
+1049,2024-02-18,2957,Male,49,Port Harcourt,Phone,Home Appliances,191330,3,Cash,573990
+1050,2024-02-19,2686,Female,51,Ibadan,Blender,Electronics,107775,1,Cash,107775
+1051,2024-02-20,2957,Female,45,Abuja,Blender,Electronics,262652,3,Transfer,787956
+1052,2024-02-21,2562,Female,48,Abuja,Fridge,Electronics,317613,1,Transfer,317613
+1053,2024-02-22,2875,Female,25,Kano,Laptop,Home Appliances,340998,3,Cash,1022994
+1054,2024-02-23,2566,Male,56,Kano,Fridge,Home Appliances,187328,2,Cash,374656
+1055,2024-02-24,2243,Male,43,Abuja,TV,Electronics,305158,2,Transfer,610316
+1056,2024-02-25,2831,Female,51,Kano,Phone,Home Appliances,126256,1,Card,126256
+1057,2024-02-26,2504,Male,20,Port Harcourt,TV,Home Appliances,477153,4,Cash,1908612
+1058,2024-02-27,2130,Male,29,Abuja,Blender,Electronics,411278,3,Transfer,1233834
+1059,2024-02-28,2484,Female,18,Kano,Fridge,Electronics,182723,4,Transfer,730892
+1060,2024-02-29,2818,Male,22,Abuja,Fridge,Home Appliances,231360,4,Transfer,925440
+1061,2024-03-01,2646,Female,47,Ibadan,Fridge,Electronics,396874,4,Transfer,1587496
+1062,2024-03-02,2020,Male,47,Lagos,TV,Home Appliances,468267,2,Card,936534
+1063,2024-03-03,2840,Female,34,Abuja,Blender,Home Appliances,339530,1,Transfer,339530
+1064,2024-03-04,2166,Female,40,Lagos,Phone,Home Appliances,292634,1,Cash,292634
+1065,2024-03-05,2273,Female,32,Kano,Phone,Home Appliances,459400,2,Card,918800
+1066,2024-03-06,2387,Female,54,Lagos,TV,Home Appliances,83787,2,Transfer,167574
+1067,2024-03-07,2600,Male,38,Abuja,Fridge,Home Appliances,71621,1,Card,71621
+1068,2024-03-08,2315,Female,31,Ibadan,Laptop,Electronics,127984,4,Cash,511936
+1069,2024-03-09,2013,Female,19,Kano,TV,Electronics,488469,3,Transfer,1465407
+1070,2024-03-10,2241,Female,28,Abuja,TV,Home Appliances,346195,3,Cash,1038585
+1071,2024-03-11,2776,Male,56,Kano,Blender,Home Appliances,361955,3,Transfer,1085865
+1072,2024-03-12,2345,Female,55,Port Harcourt,Phone,Home Appliances,80447,4,Transfer,321788
+1073,2024-03-13,2564,Male,51,Lagos,TV,Electronics,178046,1,Transfer,178046
+1074,2024-03-14,2897,Female,55,Port Harcourt,TV,Home Appliances,265002,2,Transfer,530004
+1075,2024-03-15,2339,Male,51,Abuja,Fridge,Electronics,211326,1,Transfer,211326
+1076,2024-03-16,2091,Male,35,Ibadan,Fridge,Home Appliances,396189,4,Card,1584756
+1077,2024-03-17,2366,Female,47,Kano,Laptop,Home Appliances,166859,2,Transfer,333718
+1078,2024-03-18,2955,Male,32,Lagos,Blender,Electronics,238490,4,Transfer,953960
+1079,2024-03-19,2454,Female,44,Kano,Laptop,Electronics,457688,3,Card,1373064
+1080,2024-03-20,2427,Female,51,Abuja,Fridge,Home Appliances,53471,3,Card,160413
+1081,2024-03-21,2508,Female,55,Kano,Phone,Home Appliances,288404,4,Card,1153616
+1082,2024-03-22,2775,Male,50,Lagos,Fridge,Home Appliances,170312,2,Card,340624
+1083,2024-03-23,2942,Male,41,Abuja,Blender,Electronics,276876,2,Card,553752
+1084,2024-03-24,2034,Female,32,Kano,Fridge,Electronics,189401,1,Card,189401
+1085,2024-03-25,2205,Female,47,Ibadan,Blender,Electronics,215937,3,Transfer,647811
+1086,2024-03-26,2080,Male,59,Abuja,Blender,Electronics,96850,1,Transfer,96850
+1087,2024-03-27,2931,Female,34,Abuja,Blender,Electronics,366364,1,Cash,366364
+1088,2024-03-28,2561,Female,22,Ibadan,Blender,Electronics,293306,4,Transfer,1173224
+1089,2024-03-29,2871,Female,46,Port Harcourt,Blender,Home Appliances,143808,4,Transfer,575232
+1090,2024-03-30,2387,Male,21,Lagos,Phone,Home Appliances,187469,1,Card,187469
+1091,2024-03-31,2001,Male,27,Port Harcourt,Laptop,Electronics,278981,3,Card,836943
+1092,2024-04-01,2389,Male,34,Kano,TV,Home Appliances,216597,4,Transfer,866388
+1093,2024-04-02,2565,Female,27,Ibadan,Laptop,Home Appliances,103072,1,Cash,103072
+1094,2024-04-03,2105,Female,34,Port Harcourt,Blender,Electronics,271178,1,Card,271178
+1095,2024-04-04,2771,Female,37,Abuja,Phone,Home Appliances,133820,1,Transfer,133820
+1096,2024-04-05,2821,Male,41,Kano,Fridge,Electronics,73284,1,Transfer,73284
+1097,2024-04-06,2476,Female,22,Kano,Phone,Electronics,133369,1,Cash,133369
+1098,2024-04-07,2702,Female,51,Port Harcourt,Blender,Home Appliances,337266,1,Cash,337266
+1099,2024-04-08,2401,Female,23,Port Harcourt,Phone,Electronics,442493,4,Card,1769972
+1100,2024-04-09,2729,Female,19,Ibadan,Phone,Electronics,382697,3,Cash,1148091
+1101,2024-04-10,2555,Male,30,Lagos,Blender,Electronics,262978,1,Transfer,262978
+1102,2024-04-11,2161,Male,28,Port Harcourt,Phone,Electronics,406932,2,Transfer,813864
+1103,2024-04-12,2201,Female,40,Port Harcourt,TV,Electronics,112812,4,Cash,451248
+1104,2024-04-13,2957,Male,33,Abuja,TV,Electronics,320143,4,Cash,1280572
+1105,2024-04-14,2995,Male,48,Kano,Phone,Electronics,334580,1,Cash,334580
+1106,2024-04-15,2269,Female,28,Lagos,Fridge,Electronics,355107,4,Cash,1420428
+1107,2024-04-16,2862,Female,33,Abuja,Blender,Home Appliances,183168,1,Card,183168
+1108,2024-04-17,2815,Male,25,Ibadan,TV,Home Appliances,294809,3,Cash,884427
+1109,2024-04-18,2270,Female,21,Ibadan,Fridge,Home Appliances,468495,3,Card,1405485
+1110,2024-04-19,2455,Male,57,Port Harcourt,Phone,Electronics,302164,4,Transfer,1208656
+1111,2024-04-20,2461,Female,21,Port Harcourt,Fridge,Electronics,421043,4,Cash,1684172
+1112,2024-04-21,2726,Male,42,Ibadan,Laptop,Home Appliances,295317,2,Card,590634
+1113,2024-04-22,2251,Female,20,Port Harcourt,TV,Home Appliances,338345,4,Cash,1353380
+1114,2024-04-23,2701,Male,49,Lagos,Phone,Home Appliances,200787,2,Transfer,401574
+1115,2024-04-24,2295,Male,20,Port Harcourt,Blender,Electronics,210381,3,Transfer,631143
+1116,2024-04-25,2724,Male,44,Kano,Phone,Home Appliances,196150,3,Transfer,588450
+1117,2024-04-26,2719,Female,46,Port Harcourt,Blender,Home Appliances,499830,1,Cash,499830
+1118,2024-04-27,2748,Male,49,Abuja,Phone,Electronics,55105,3,Cash,165315
+1119,2024-04-28,2337,Male,36,Lagos,Fridge,Home Appliances,429810,2,Card,859620
+1120,2024-04-29,2878,Female,38,Abuja,Fridge,Electronics,406992,4,Transfer,1627968
+1121,2024-04-30,2052,Female,22,Abuja,Fridge,Electronics,314983,1,Cash,314983
+1122,2024-05-01,2791,Male,35,Kano,Laptop,Electronics,118920,2,Transfer,237840
+1123,2024-05-02,2921,Male,45,Lagos,Blender,Home Appliances,355763,4,Transfer,1423052
+1124,2024-05-03,2216,Female,59,Lagos,Fridge,Home Appliances,92821,1,Card,92821
+1125,2024-05-04,2763,Female,39,Lagos,Laptop,Electronics,175736,3,Card,527208
+1126,2024-05-05,2187,Female,38,Lagos,Blender,Home Appliances,456709,2,Card,913418
+1127,2024-05-06,2379,Female,23,Lagos,Phone,Home Appliances,67069,4,Card,268276
+1128,2024-05-07,2492,Female,18,Kano,Laptop,Home Appliances,57531,1,Transfer,57531
+1129,2024-05-08,2040,Male,22,Port Harcourt,TV,Home Appliances,480267,1,Card,480267
+1130,2024-05-09,2156,Female,58,Abuja,Laptop,Electronics,188808,3,Card,566424
+1131,2024-05-10,2014,Male,29,Lagos,Laptop,Home Appliances,188782,4,Card,755128
+1132,2024-05-11,2812,Male,43,Port Harcourt,Blender,Electronics,117155,3,Card,351465
+1133,2024-05-12,2064,Male,51,Port Harcourt,Phone,Electronics,457191,3,Transfer,1371573
+1134,2024-05-13,2856,Female,31,Abuja,TV,Home Appliances,112424,4,Card,449696
+1135,2024-05-14,2838,Male,43,Kano,Fridge,Electronics,357747,4,Transfer,1430988
+1136,2024-05-15,2520,Male,44,Ibadan,Fridge,Home Appliances,466468,4,Cash,1865872
+1137,2024-05-16,2343,Female,26,Ibadan,Laptop,Home Appliances,182503,2,Transfer,365006
+1138,2024-05-17,2128,Male,43,Port Harcourt,Blender,Electronics,255675,4,Transfer,1022700
+1139,2024-05-18,2647,Male,39,Abuja,Blender,Electronics,218553,1,Card,218553
+1140,2024-05-19,2471,Female,47,Ibadan,Fridge,Electronics,404717,3,Cash,1214151
+1141,2024-05-20,2062,Male,34,Port Harcourt,TV,Electronics,190629,2,Cash,381258
+1142,2024-05-21,2138,Male,43,Kano,Phone,Home Appliances,415446,4,Cash,1661784
+1143,2024-05-22,2498,Male,53,Ibadan,TV,Home Appliances,181234,2,Cash,362468
+1144,2024-05-23,2592,Female,18,Port Harcourt,Phone,Home Appliances,477958,4,Transfer,1911832
+1145,2024-05-24,2391,Female,25,Port Harcourt,Fridge,Electronics,69675,2,Cash,139350
+1146,2024-05-25,2674,Female,52,Lagos,Phone,Electronics,123997,3,Transfer,371991
+1147,2024-05-26,2418,Male,32,Kano,Blender,Electronics,198087,3,Transfer,594261
+1148,2024-05-27,2288,Male,39,Lagos,Laptop,Home Appliances,493273,1,Transfer,493273
+1149,2024-05-28,2378,Female,31,Abuja,Laptop,Electronics,475807,1,Cash,475807
+1150,2024-05-29,2772,Male,43,Lagos,Fridge,Home Appliances,281390,4,Card,1125560
+1151,2024-05-30,2489,Male,45,Lagos,Blender,Electronics,190905,3,Card,572715
+1152,2024-05-31,2230,Female,40,Ibadan,TV,Home Appliances,320040,2,Cash,640080
+1153,2024-06-01,2040,Female,31,Port Harcourt,Blender,Home Appliances,476188,2,Card,952376
+1154,2024-06-02,2027,Male,41,Kano,Laptop,Electronics,361877,2,Card,723754
+1155,2024-06-03,2134,Male,19,Lagos,Laptop,Electronics,301435,1,Transfer,301435
+1156,2024-06-04,2200,Male,43,Kano,Blender,Home Appliances,91800,2,Transfer,183600
+1157,2024-06-05,2839,Female,31,Lagos,Blender,Home Appliances,146044,1,Cash,146044
+1158,2024-06-06,2779,Female,24,Abuja,Laptop,Electronics,317491,1,Cash,317491
+1159,2024-06-07,2929,Female,20,Lagos,TV,Electronics,240135,4,Card,960540
+1160,2024-06-08,2032,Female,40,Ibadan,Fridge,Home Appliances,183715,2,Transfer,367430
+1161,2024-06-09,2047,Male,35,Port Harcourt,Fridge,Electronics,352929,2,Cash,705858
+1162,2024-06-10,2502,Female,55,Abuja,Blender,Home Appliances,330825,3,Cash,992475
+1163,2024-06-11,2406,Female,52,Lagos,Fridge,Home Appliances,493242,4,Cash,1972968
+1164,2024-06-12,2573,Female,32,Kano,Laptop,Electronics,416008,3,Cash,1248024
+1165,2024-06-13,2727,Female,42,Abuja,Laptop,Electronics,459108,4,Cash,1836432
+1166,2024-06-14,2804,Female,54,Abuja,Blender,Electronics,359443,2,Cash,718886
+1167,2024-06-15,2098,Male,45,Lagos,Blender,Electronics,67073,1,Card,67073
+1168,2024-06-16,2683,Male,27,Abuja,Blender,Electronics,414448,1,Transfer,414448
+1169,2024-06-17,2871,Female,56,Kano,TV,Home Appliances,80682,1,Transfer,80682
+1170,2024-06-18,2725,Male,34,Abuja,Fridge,Home Appliances,278870,1,Cash,278870
+1171,2024-06-19,2986,Female,56,Kano,Blender,Electronics,277966,1,Transfer,277966
+1172,2024-06-20,2546,Female,39,Lagos,Phone,Electronics,436446,3,Transfer,1309338
+1173,2024-06-21,2960,Male,43,Port Harcourt,Phone,Electronics,457505,4,Transfer,1830020
+1174,2024-06-22,2738,Male,42,Abuja,Laptop,Home Appliances,165359,2,Cash,330718
+1175,2024-06-23,2612,Female,34,Port Harcourt,Fridge,Electronics,451143,3,Cash,1353429
+1176,2024-06-24,2942,Female,30,Kano,Blender,Electronics,491546,4,Transfer,1966184
+1177,2024-06-25,2461,Female,37,Abuja,Phone,Home Appliances,116707,1,Transfer,116707
+1178,2024-06-26,2642,Male,42,Ibadan,Fridge,Home Appliances,301351,4,Cash,1205404
+1179,2024-06-27,2768,Female,21,Port Harcourt,Laptop,Electronics,288511,4,Card,1154044
+1180,2024-06-28,2004,Female,27,Abuja,TV,Electronics,285718,1,Transfer,285718
+1181,2024-06-29,2217,Female,20,Port Harcourt,Fridge,Electronics,115428,1,Card,115428
+1182,2024-06-30,2502,Male,58,Abuja,Fridge,Home Appliances,100601,1,Transfer,100601
+1183,2024-07-01,2766,Female,35,Lagos,TV,Electronics,445755,2,Card,891510
+1184,2024-07-02,2397,Female,53,Port Harcourt,Fridge,Electronics,161487,1,Card,161487
+1185,2024-07-03,2870,Male,39,Ibadan,Laptop,Electronics,203741,2,Card,407482
+1186,2024-07-04,2794,Female,51,Ibadan,Laptop,Home Appliances,463860,1,Cash,463860
+1187,2024-07-05,2392,Female,25,Kano,TV,Home Appliances,461961,2,Card,923922
+1188,2024-07-06,2206,Male,57,Abuja,Blender,Electronics,301924,4,Card,1207696
+1189,2024-07-07,2014,Female,36,Port Harcourt,Phone,Electronics,309153,3,Card,927459
+1190,2024-07-08,2857,Male,59,Kano,Blender,Home Appliances,340372,4,Transfer,1361488
+1191,2024-07-09,2553,Male,58,Port Harcourt,Fridge,Home Appliances,299430,4,Card,1197720
+1192,2024-07-10,2891,Female,54,Abuja,Phone,Home Appliances,477737,1,Transfer,477737
+1193,2024-07-11,2460,Female,23,Ibadan,TV,Home Appliances,172788,2,Card,345576
+1194,2024-07-12,2690,Female,43,Lagos,TV,Home Appliances,147239,3,Card,441717
+1195,2024-07-13,2574,Female,51,Ibadan,Phone,Home Appliances,76928,1,Cash,76928
+1196,2024-07-14,2863,Male,23,Kano,Laptop,Home Appliances,330466,1,Transfer,330466
+1197,2024-07-15,2742,Female,54,Lagos,Phone,Home Appliances,400040,1,Card,400040
+1198,2024-07-16,2240,Male,50,Kano,Fridge,Home Appliances,112292,4,Transfer,449168
+1199,2024-07-17,2563,Female,39,Abuja,Laptop,Electronics,79055,2,Transfer,158110
+1200,2024-07-18,2095,Female,38,Lagos,TV,Electronics,355035,2,Cash,710070
+1201,2024-07-19,2899,Female,23,Kano,Phone,Electronics,131912,3,Cash,395736
+1202,2024-07-20,2733,Male,23,Abuja,Blender,Home Appliances,187660,2,Cash,375320
+1203,2024-07-21,2484,Female,21,Ibadan,Blender,Electronics,402680,2,Cash,805360
+1204,2024-07-22,2406,Female,47,Abuja,Fridge,Home Appliances,318448,1,Cash,318448
+1205,2024-07-23,2230,Female,28,Port Harcourt,Blender,Home Appliances,57345,1,Cash,57345
+1206,2024-07-24,2748,Female,47,Abuja,Phone,Electronics,210372,4,Cash,841488
+1207,2024-07-25,2654,Male,48,Abuja,Phone,Home Appliances,467475,1,Cash,467475
+1208,2024-07-26,2170,Female,41,Port Harcourt,Blender,Electronics,141006,1,Card,141006
+1209,2024-07-27,2540,Male,26,Kano,Phone,Electronics,458568,1,Transfer,458568
+1210,2024-07-28,2035,Male,20,Kano,Fridge,Electronics,179350,1,Cash,179350
+1211,2024-07-29,2524,Male,48,Abuja,Laptop,Home Appliances,214437,4,Cash,857748
+1212,2024-07-30,2159,Male,57,Port Harcourt,Fridge,Electronics,331590,1,Transfer,331590
+1213,2024-07-31,2838,Male,54,Port Harcourt,Fridge,Home Appliances,314480,3,Card,943440
+1214,2024-08-01,2698,Male,53,Ibadan,Phone,Electronics,374176,3,Transfer,1122528
+1215,2024-08-02,2242,Female,41,Kano,Laptop,Electronics,256487,3,Transfer,769461
+1216,2024-08-03,2085,Male,48,Lagos,Phone,Electronics,147852,3,Cash,443556
+1217,2024-08-04,2795,Male,23,Kano,TV,Home Appliances,188593,1,Transfer,188593
+1218,2024-08-05,2577,Male,19,Kano,Phone,Home Appliances,252779,3,Transfer,758337
+1219,2024-08-06,2681,Female,37,Ibadan,Phone,Home Appliances,204553,1,Cash,204553
+1220,2024-08-07,2556,Female,45,Lagos,Phone,Electronics,330618,4,Cash,1322472
+1221,2024-08-08,2573,Male,28,Ibadan,Laptop,Electronics,227832,3,Cash,683496
+1222,2024-08-09,2952,Female,21,Lagos,Phone,Home Appliances,367862,2,Cash,735724
+1223,2024-08-10,2645,Male,32,Abuja,Laptop,Home Appliances,356773,3,Transfer,1070319
+1224,2024-08-11,2795,Male,23,Lagos,Blender,Home Appliances,95232,3,Transfer,285696
+1225,2024-08-12,2027,Female,47,Ibadan,TV,Home Appliances,398688,1,Card,398688
+1226,2024-08-13,2619,Male,55,Kano,Laptop,Home Appliances,309013,3,Card,927039
+1227,2024-08-14,2555,Female,19,Lagos,Blender,Home Appliances,362813,2,Transfer,725626
+1228,2024-08-15,2339,Female,32,Lagos,Laptop,Electronics,259093,1,Card,259093
+1229,2024-08-16,2797,Male,28,Port Harcourt,Laptop,Home Appliances,381328,1,Transfer,381328
+1230,2024-08-17,2957,Male,25,Kano,TV,Electronics,229017,4,Card,916068
+1231,2024-08-18,2330,Female,43,Abuja,Fridge,Electronics,63140,4,Cash,252560
+1232,2024-08-19,2639,Male,22,Ibadan,Fridge,Home Appliances,438612,3,Card,1315836
+1233,2024-08-20,2505,Male,23,Abuja,Laptop,Home Appliances,133457,4,Cash,533828
+1234,2024-08-21,2347,Male,43,Kano,Phone,Electronics,64357,4,Cash,257428
+1235,2024-08-22,2472,Female,21,Lagos,Blender,Home Appliances,161672,4,Cash,646688
+1236,2024-08-23,2230,Female,36,Lagos,Phone,Home Appliances,380817,1,Cash,380817
+1237,2024-08-24,2189,Male,37,Kano,Phone,Electronics,171673,1,Card,171673
+1238,2024-08-25,2224,Female,50,Lagos,Laptop,Electronics,115633,1,Transfer,115633
+1239,2024-08-26,2384,Female,37,Lagos,Laptop,Electronics,258015,4,Cash,1032060
+1240,2024-08-27,2376,Female,29,Lagos,Laptop,Home Appliances,146111,1,Card,146111
+1241,2024-08-28,2282,Female,18,Ibadan,Laptop,Electronics,390402,4,Cash,1561608
+1242,2024-08-29,2957,Female,43,Ibadan,Fridge,Home Appliances,456140,1,Card,456140
+1243,2024-08-30,2632,Male,31,Port Harcourt,Laptop,Electronics,119286,1,Card,119286
+1244,2024-08-31,2627,Male,55,Abuja,Fridge,Electronics,143269,2,Card,286538
+1245,2024-09-01,2972,Male,54,Kano,Fridge,Electronics,308635,3,Transfer,925905
+1246,2024-09-02,2744,Female,28,Kano,Laptop,Home Appliances,124071,4,Card,496284
+1247,2024-09-03,2258,Female,53,Kano,TV,Home Appliances,271095,2,Card,542190
+1248,2024-09-04,2358,Male,30,Port Harcourt,Blender,Electronics,80651,1,Transfer,80651
+1249,2024-09-05,2709,Female,20,Ibadan,Phone,Electronics,120202,4,Transfer,480808
+1250,2024-09-06,2455,Male,50,Port Harcourt,Fridge,Electronics,98777,1,Card,98777
+1251,2024-09-07,2410,Male,23,Kano,Blender,Home Appliances,198066,3,Transfer,594198
+1252,2024-09-08,2648,Male,27,Abuja,TV,Electronics,379407,2,Cash,758814
+1253,2024-09-09,2317,Female,22,Lagos,Phone,Home Appliances,240706,3,Cash,722118
+1254,2024-09-10,2676,Female,40,Ibadan,Phone,Electronics,150158,2,Transfer,300316
+1255,2024-09-11,2224,Male,27,Ibadan,Fridge,Electronics,322944,1,Transfer,322944
+1256,2024-09-12,2818,Male,19,Port Harcourt,Laptop,Electronics,349967,3,Card,1049901
+1257,2024-09-13,2233,Male,30,Ibadan,TV,Electronics,289647,3,Transfer,868941
+1258,2024-09-14,2683,Male,57,Kano,Fridge,Electronics,376022,1,Card,376022
+1259,2024-09-15,2663,Female,19,Kano,TV,Electronics,330852,3,Cash,992556
+1260,2024-09-16,2974,Female,37,Port Harcourt,Laptop,Home Appliances,193891,4,Transfer,775564
+1261,2024-09-17,2826,Male,18,Kano,Laptop,Electronics,255977,2,Card,511954
+1262,2024-09-18,2373,Male,54,Abuja,Fridge,Home Appliances,113870,2,Card,227740
+1263,2024-09-19,2671,Female,26,Port Harcourt,Laptop,Electronics,59283,2,Cash,118566
+1264,2024-09-20,2607,Female,34,Abuja,Blender,Electronics,211645,4,Transfer,846580
+1265,2024-09-21,2471,Male,26,Lagos,Phone,Home Appliances,390851,2,Cash,781702
+1266,2024-09-22,2232,Male,28,Abuja,Fridge,Electronics,474149,1,Card,474149
+1267,2024-09-23,2691,Male,32,Lagos,TV,Home Appliances,55774,3,Card,167322
+1268,2024-09-24,2112,Female,41,Lagos,Blender,Home Appliances,253127,4,Transfer,1012508
+1269,2024-09-25,2829,Female,55,Abuja,Fridge,Electronics,192055,2,Card,384110
+1270,2024-09-26,2496,Female,52,Port Harcourt,Laptop,Home Appliances,146468,1,Transfer,146468
+1271,2024-09-27,2441,Male,47,Kano,Laptop,Home Appliances,408478,3,Cash,1225434
+1272,2024-09-28,2563,Male,48,Kano,Laptop,Electronics,330277,3,Transfer,990831
+1273,2024-09-29,2267,Female,22,Lagos,Laptop,Home Appliances,458155,4,Transfer,1832620
+1274,2024-09-30,2509,Female,31,Lagos,TV,Electronics,50781,4,Card,203124
+1275,2024-10-01,2806,Male,28,Port Harcourt,Blender,Electronics,164586,4,Card,658344
+1276,2024-10-02,2385,Female,26,Ibadan,Phone,Electronics,499916,1,Transfer,499916
+1277,2024-10-03,2386,Female,51,Abuja,TV,Electronics,339768,1,Card,339768
+1278,2024-10-04,2112,Male,29,Lagos,TV,Home Appliances,56823,4,Card,227292
+1279,2024-10-05,2612,Female,52,Kano,Phone,Electronics,68489,2,Card,136978
+1280,2024-10-06,2624,Male,52,Port Harcourt,Phone,Electronics,221033,3,Transfer,663099
+1281,2024-10-07,2951,Male,18,Abuja,Laptop,Home Appliances,341262,3,Card,1023786
+1282,2024-10-08,2080,Male,57,Port Harcourt,TV,Electronics,150417,1,Transfer,150417
+1283,2024-10-09,2698,Male,39,Abuja,Fridge,Electronics,131816,3,Card,395448
+1284,2024-10-10,2112,Male,46,Abuja,Phone,Home Appliances,203335,2,Cash,406670
+1285,2024-10-11,2001,Male,25,Lagos,Phone,Home Appliances,325709,3,Card,977127
+1286,2024-10-12,2641,Male,28,Port Harcourt,Blender,Home Appliances,201426,1,Card,201426
+1287,2024-10-13,2219,Female,58,Port Harcourt,Fridge,Home Appliances,224023,1,Transfer,224023
+1288,2024-10-14,2565,Male,54,Kano,Fridge,Home Appliances,403323,2,Transfer,806646
+1289,2024-10-15,2854,Male,31,Kano,Phone,Home Appliances,73648,2,Card,147296
+1290,2024-10-16,2996,Female,47,Lagos,Laptop,Home Appliances,493945,3,Cash,1481835
+1291,2024-10-17,2735,Female,52,Lagos,Blender,Electronics,91971,3,Card,275913
+1292,2024-10-18,2224,Female,38,Ibadan,Fridge,Home Appliances,68658,1,Card,68658
+1293,2024-10-19,2384,Male,54,Kano,Phone,Home Appliances,71253,2,Cash,142506
+1294,2024-10-20,2402,Female,22,Abuja,Fridge,Home Appliances,229635,2,Transfer,459270
+1295,2024-10-21,2637,Male,36,Port Harcourt,Blender,Electronics,207462,2,Card,414924
+1296,2024-10-22,2129,Male,31,Lagos,Blender,Electronics,400808,3,Transfer,1202424
+1297,2024-10-23,2052,Male,43,Port Harcourt,TV,Home Appliances,232650,2,Transfer,465300
+1298,2024-10-24,2683,Male,21,Port Harcourt,Phone,Home Appliances,260097,1,Cash,260097
+1299,2024-10-25,2729,Female,42,Ibadan,Blender,Home Appliances,153850,1,Cash,153850
+1300,2024-10-26,2671,Female,59,Kano,TV,Electronics,475874,3,Transfer,1427622
+1301,2024-10-27,2709,Male,42,Lagos,TV,Electronics,187924,4,Card,751696
+1302,2024-10-28,2415,Male,35,Port Harcourt,Fridge,Home Appliances,276058,3,Transfer,828174
+1303,2024-10-29,2246,Male,57,Lagos,Fridge,Electronics,183623,4,Card,734492
+1304,2024-10-30,2835,Female,25,Abuja,TV,Home Appliances,384091,2,Card,768182
+1305,2024-10-31,2438,Male,56,Ibadan,Fridge,Electronics,111001,3,Cash,333003
+1306,2024-11-01,2202,Male,57,Abuja,Blender,Electronics,230231,1,Card,230231
+1307,2024-11-02,2183,Female,31,Lagos,Laptop,Home Appliances,172775,2,Card,345550
+1308,2024-11-03,2122,Female,49,Lagos,Blender,Home Appliances,494923,1,Transfer,494923
+1309,2024-11-04,2400,Male,55,Kano,TV,Home Appliances,83243,2,Cash,166486
+1310,2024-11-05,2766,Female,50,Port Harcourt,TV,Home Appliances,202872,3,Card,608616
+1311,2024-11-06,2293,Female,40,Port Harcourt,Blender,Electronics,388083,4,Card,1552332
+1312,2024-11-07,2279,Male,32,Abuja,Fridge,Electronics,369972,2,Cash,739944
+1313,2024-11-08,2836,Female,50,Ibadan,Fridge,Electronics,311716,4,Transfer,1246864
+1314,2024-11-09,2883,Male,42,Port Harcourt,TV,Home Appliances,450455,2,Cash,900910
+1315,2024-11-10,2609,Female,34,Kano,Phone,Electronics,318854,1,Cash,318854
+1316,2024-11-11,2197,Male,50,Abuja,Fridge,Home Appliances,464600,1,Card,464600
+1317,2024-11-12,2981,Male,19,Abuja,Blender,Electronics,464254,2,Card,928508
+1318,2024-11-13,2906,Male,31,Kano,Fridge,Home Appliances,221918,4,Transfer,887672
+1319,2024-11-14,2510,Female,57,Ibadan,Blender,Home Appliances,269055,3,Card,807165
+1320,2024-11-15,2751,Male,57,Kano,TV,Electronics,350135,3,Card,1050405
+1321,2024-11-16,2143,Female,56,Ibadan,Fridge,Home Appliances,260129,1,Cash,260129
+1322,2024-11-17,2608,Male,23,Kano,Blender,Home Appliances,450187,3,Card,1350561
+1323,2024-11-18,2200,Male,23,Kano,TV,Electronics,472355,1,Transfer,472355
+1324,2024-11-19,2123,Female,20,Lagos,Phone,Home Appliances,397589,3,Cash,1192767
+1325,2024-11-20,2186,Male,24,Abuja,Blender,Home Appliances,258139,2,Transfer,516278
+1326,2024-11-21,2325,Male,25,Kano,Phone,Home Appliances,130257,1,Cash,130257
+1327,2024-11-22,2463,Female,59,Kano,Phone,Electronics,349855,1,Card,349855
+1328,2024-11-23,2348,Male,32,Port Harcourt,Laptop,Electronics,56530,2,Cash,113060
+1329,2024-11-24,2770,Male,46,Abuja,Fridge,Home Appliances,323260,1,Cash,323260
+1330,2024-11-25,2659,Male,50,Port Harcourt,Blender,Electronics,115794,3,Card,347382
+1331,2024-11-26,2763,Male,47,Abuja,Phone,Home Appliances,443498,3,Card,1330494
+1332,2024-11-27,2954,Female,56,Port Harcourt,Laptop,Home Appliances,260545,1,Transfer,260545
+1333,2024-11-28,2931,Female,44,Kano,TV,Home Appliances,182970,3,Transfer,548910
+1334,2024-11-29,2402,Male,53,Kano,Blender,Home Appliances,54135,4,Card,216540
+1335,2024-11-30,2345,Female,46,Lagos,Phone,Home Appliances,449845,1,Card,449845
+1336,2024-12-01,2962,Male,55,Port Harcourt,Fridge,Electronics,421616,2,Card,843232
+1337,2024-12-02,2510,Female,50,Ibadan,Laptop,Home Appliances,437291,4,Cash,1749164
+1338,2024-12-03,2146,Male,54,Lagos,Phone,Electronics,300870,1,Cash,300870
+1339,2024-12-04,2147,Male,44,Port Harcourt,Fridge,Electronics,139087,2,Cash,278174
+1340,2024-12-05,2863,Male,50,Port Harcourt,Phone,Home Appliances,246103,3,Card,738309
+1341,2024-12-06,2710,Male,21,Lagos,Blender,Home Appliances,345524,2,Transfer,691048
+1342,2024-12-07,2819,Male,39,Kano,Blender,Electronics,442095,4,Card,1768380
+1343,2024-12-08,2488,Male,19,Port Harcourt,Blender,Electronics,329215,3,Cash,987645
+1344,2024-12-09,2928,Female,27,Kano,Laptop,Electronics,70074,1,Cash,70074
+1345,2024-12-10,2935,Male,22,Lagos,Blender,Home Appliances,271796,3,Card,815388
+1346,2024-12-11,2639,Female,27,Kano,Fridge,Electronics,117843,1,Card,117843
+1347,2024-12-12,2550,Male,50,Abuja,Phone,Home Appliances,89901,1,Cash,89901
+1348,2024-12-13,2337,Female,55,Ibadan,TV,Home Appliances,323349,2,Cash,646698
+1349,2024-12-14,2871,Female,30,Port Harcourt,Fridge,Home Appliances,498877,2,Cash,997754
+1350,2024-12-15,2640,Female,48,Ibadan,Fridge,Electronics,436805,2,Card,873610
+1351,2024-12-16,2778,Male,53,Kano,Blender,Home Appliances,318050,4,Cash,1272200
+1352,2024-12-17,2987,Male,41,Port Harcourt,Laptop,Home Appliances,445807,4,Cash,1783228
+1353,2024-12-18,2952,Female,32,Kano,Phone,Home Appliances,437720,2,Transfer,875440
+1354,2024-12-19,2472,Male,46,Abuja,Laptop,Home Appliances,112987,4,Card,451948
+1355,2024-12-20,2945,Female,25,Lagos,Phone,Home Appliances,392829,3,Transfer,1178487
+1356,2024-12-21,2150,Male,22,Port Harcourt,Phone,Electronics,422598,3,Transfer,1267794
+1357,2024-12-22,2414,Female,46,Abuja,Laptop,Home Appliances,417631,4,Cash,1670524
+1358,2024-12-23,2989,Female,21,Abuja,Fridge,Home Appliances,104400,4,Card,417600
+1359,2024-12-24,2297,Male,29,Port Harcourt,Phone,Electronics,206222,3,Cash,618666
+1360,2024-12-25,2610,Female,19,Kano,Laptop,Home Appliances,81852,1,Card,81852
+1361,2024-12-26,2262,Male,44,Abuja,Phone,Electronics,486086,3,Transfer,1458258
+1362,2024-12-27,2763,Female,48,Ibadan,TV,Home Appliances,364900,3,Card,1094700
+1363,2024-12-28,2143,Female,53,Abuja,Fridge,Electronics,427501,4,Cash,1710004
+1364,2024-12-29,2345,Male,53,Kano,Blender,Electronics,169052,3,Cash,507156
+1365,2024-12-30,2623,Male,43,Kano,Phone,Home Appliances,106481,4,Cash,425924
+1366,2024-12-31,2571,Male,44,Ibadan,TV,Home Appliances,313427,4,Card,1253708
+1367,2025-01-01,2880,Female,22,Abuja,Blender,Home Appliances,83691,2,Transfer,167382
+1368,2025-01-02,2001,Male,37,Kano,Blender,Electronics,444341,3,Transfer,1333023
+1369,2025-01-03,2896,Female,28,Port Harcourt,Phone,Electronics,248137,1,Card,248137
+1370,2025-01-04,2303,Female,27,Lagos,Laptop,Electronics,76170,2,Cash,152340
+1371,2025-01-05,2253,Male,57,Lagos,Phone,Home Appliances,58438,4,Transfer,233752
+1372,2025-01-06,2651,Male,55,Lagos,TV,Electronics,332239,4,Cash,1328956
+1373,2025-01-07,2452,Female,23,Abuja,Blender,Electronics,197226,1,Card,197226
+1374,2025-01-08,2036,Female,25,Ibadan,Phone,Home Appliances,451220,4,Cash,1804880
+1375,2025-01-09,2159,Male,40,Kano,Laptop,Electronics,321896,3,Transfer,965688
+1376,2025-01-10,2008,Male,43,Port Harcourt,Phone,Electronics,105426,2,Transfer,210852
+1377,2025-01-11,2232,Male,29,Port Harcourt,Fridge,Home Appliances,289968,4,Cash,1159872
+1378,2025-01-12,2098,Male,43,Abuja,Laptop,Electronics,338963,4,Card,1355852
+1379,2025-01-13,2658,Male,30,Lagos,TV,Home Appliances,404195,1,Cash,404195
+1380,2025-01-14,2815,Female,57,Abuja,Blender,Home Appliances,205289,3,Card,615867
+1381,2025-01-15,2207,Female,35,Ibadan,Phone,Home Appliances,311501,4,Cash,1246004
+1382,2025-01-16,2130,Female,42,Ibadan,Laptop,Home Appliances,269780,1,Transfer,269780
+1383,2025-01-17,2403,Female,50,Kano,Fridge,Home Appliances,345138,4,Card,1380552
+1384,2025-01-18,2151,Male,57,Kano,Laptop,Electronics,196108,1,Card,196108
+1385,2025-01-19,2053,Male,29,Ibadan,Fridge,Electronics,258347,1,Card,258347
+1386,2025-01-20,2119,Male,53,Ibadan,TV,Home Appliances,147756,3,Transfer,443268
+1387,2025-01-21,2672,Female,21,Ibadan,Blender,Home Appliances,492632,4,Cash,1970528
+1388,2025-01-22,2919,Female,22,Abuja,TV,Electronics,452803,3,Transfer,1358409
+1389,2025-01-23,2627,Male,54,Ibadan,Phone,Home Appliances,145665,1,Card,145665
+1390,2025-01-24,2586,Male,25,Port Harcourt,Laptop,Home Appliances,181717,2,Cash,363434
+1391,2025-01-25,2624,Female,59,Lagos,Fridge,Home Appliances,212002,4,Transfer,848008
+1392,2025-01-26,2967,Female,45,Ibadan,Fridge,Electronics,311691,2,Card,623382
+1393,2025-01-27,2419,Male,48,Lagos,Laptop,Electronics,131835,4,Card,527340
+1394,2025-01-28,2421,Male,26,Abuja,Laptop,Home Appliances,172232,3,Transfer,516696
+1395,2025-01-29,2103,Female,46,Lagos,Phone,Home Appliances,473306,3,Transfer,1419918
+1396,2025-01-30,2851,Male,31,Abuja,TV,Electronics,268561,3,Transfer,805683
+1397,2025-01-31,2253,Male,57,Port Harcourt,Fridge,Electronics,495358,3,Card,1486074
+1398,2025-02-01,2226,Male,58,Abuja,Phone,Home Appliances,293051,3,Transfer,879153
+1399,2025-02-02,2111,Female,39,Abuja,TV,Home Appliances,207547,2,Card,415094
+1400,2025-02-03,2509,Female,28,Kano,Phone,Electronics,462104,3,Transfer,1386312
+1401,2025-02-04,2472,Female,40,Ibadan,Fridge,Electronics,93732,1,Card,93732
+1402,2025-02-05,2098,Female,18,Ibadan,Laptop,Electronics,262695,1,Card,262695
+1403,2025-02-06,2152,Female,54,Port Harcourt,Laptop,Home Appliances,358449,2,Cash,716898
+1404,2025-02-07,2860,Female,38,Port Harcourt,TV,Electronics,227109,4,Transfer,908436
+1405,2025-02-08,2913,Female,43,Ibadan,Blender,Home Appliances,59346,1,Transfer,59346
+1406,2025-02-09,2895,Male,53,Kano,TV,Electronics,312731,4,Card,1250924
+1407,2025-02-10,2877,Male,40,Ibadan,Blender,Electronics,62763,2,Card,125526
+1408,2025-02-11,2337,Male,18,Kano,Phone,Electronics,240237,4,Card,960948
+1409,2025-02-12,2705,Male,57,Port Harcourt,Phone,Electronics,288553,4,Cash,1154212
+1410,2025-02-13,2821,Male,32,Lagos,Fridge,Home Appliances,381759,4,Cash,1527036
+1411,2025-02-14,2162,Male,38,Port Harcourt,Blender,Home Appliances,479332,4,Card,1917328
+1412,2025-02-15,2719,Male,26,Port Harcourt,Fridge,Electronics,170987,2,Transfer,341974
+1413,2025-02-16,2956,Female,26,Abuja,Laptop,Home Appliances,266823,1,Transfer,266823
+1414,2025-02-17,2680,Female,27,Abuja,Blender,Electronics,141353,3,Cash,424059
+1415,2025-02-18,2995,Male,43,Abuja,TV,Electronics,271373,4,Cash,1085492
+1416,2025-02-19,2160,Male,58,Abuja,Laptop,Electronics,407792,1,Card,407792
+1417,2025-02-20,2579,Female,52,Kano,Laptop,Electronics,75556,1,Transfer,75556
+1418,2025-02-21,2800,Male,42,Ibadan,TV,Home Appliances,371186,2,Card,742372
+1419,2025-02-22,2397,Male,43,Lagos,Laptop,Electronics,68099,1,Cash,68099
+1420,2025-02-23,2276,Female,28,Port Harcourt,Blender,Electronics,421233,2,Transfer,842466
+1421,2025-02-24,2815,Male,55,Kano,Fridge,Home Appliances,226168,4,Transfer,904672
+1422,2025-02-25,2915,Female,19,Lagos,Laptop,Electronics,253058,4,Cash,1012232
+1423,2025-02-26,2503,Male,24,Kano,Blender,Electronics,194302,3,Card,582906
+1424,2025-02-27,2895,Female,35,Kano,Phone,Electronics,472225,3,Card,1416675
+1425,2025-02-28,2391,Female,44,Port Harcourt,Blender,Home Appliances,252041,3,Transfer,756123
+1426,2025-03-01,2134,Female,51,Ibadan,Fridge,Electronics,83866,1,Cash,83866
+1427,2025-03-02,2194,Male,44,Abuja,Blender,Home Appliances,155400,4,Transfer,621600
+1428,2025-03-03,2400,Female,34,Ibadan,TV,Electronics,396390,2,Cash,792780
+1429,2025-03-04,2639,Male,41,Port Harcourt,Fridge,Electronics,389119,3,Card,1167357
+1430,2025-03-05,2032,Male,42,Port Harcourt,Phone,Home Appliances,485071,2,Cash,970142
+1431,2025-03-06,2687,Male,24,Port Harcourt,TV,Electronics,393701,2,Card,787402
+1432,2025-03-07,2459,Male,23,Lagos,Blender,Electronics,187488,3,Cash,562464
+1433,2025-03-08,2954,Female,41,Ibadan,Fridge,Home Appliances,122516,4,Transfer,490064
+1434,2025-03-09,2882,Female,50,Ibadan,Phone,Home Appliances,236987,3,Card,710961
+1435,2025-03-10,2469,Male,46,Kano,TV,Home Appliances,461274,2,Transfer,922548
+1436,2025-03-11,2374,Male,39,Kano,Phone,Home Appliances,483934,3,Transfer,1451802
+1437,2025-03-12,2021,Female,43,Kano,Blender,Home Appliances,344746,2,Card,689492
+1438,2025-03-13,2749,Male,45,Port Harcourt,Phone,Electronics,239139,2,Card,478278
+1439,2025-03-14,2669,Female,38,Ibadan,Laptop,Home Appliances,208588,3,Transfer,625764
+1440,2025-03-15,2037,Male,24,Port Harcourt,TV,Electronics,179295,1,Transfer,179295
+1441,2025-03-16,2229,Male,34,Lagos,Phone,Electronics,137969,3,Transfer,413907
+1442,2025-03-17,2364,Female,37,Kano,Blender,Electronics,182161,1,Transfer,182161
+1443,2025-03-18,2562,Male,58,Port Harcourt,Blender,Home Appliances,480562,2,Card,961124
+1444,2025-03-19,2437,Female,37,Port Harcourt,Phone,Home Appliances,255735,2,Card,511470
+1445,2025-03-20,2775,Male,39,Lagos,Blender,Electronics,191559,1,Transfer,191559
+1446,2025-03-21,2282,Male,45,Abuja,Fridge,Home Appliances,312299,2,Cash,624598
+1447,2025-03-22,2026,Male,57,Ibadan,Fridge,Home Appliances,173950,1,Cash,173950
+1448,2025-03-23,2225,Female,24,Abuja,Fridge,Home Appliances,379638,1,Card,379638
+1449,2025-03-24,2276,Male,18,Kano,Laptop,Home Appliances,126229,2,Transfer,252458
+1450,2025-03-25,2797,Male,49,Port Harcourt,Phone,Electronics,154648,4,Transfer,618592
+1451,2025-03-26,2608,Male,30,Lagos,Laptop,Electronics,88547,1,Card,88547
+1452,2025-03-27,2283,Male,47,Lagos,Blender,Home Appliances,78795,3,Cash,236385
+1453,2025-03-28,2878,Female,40,Ibadan,Laptop,Electronics,236368,3,Cash,709104
+1454,2025-03-29,2959,Female,36,Abuja,Blender,Home Appliances,71447,2,Cash,142894
+1455,2025-03-30,2480,Male,49,Ibadan,Blender,Home Appliances,217670,4,Card,870680
+1456,2025-03-31,2452,Female,47,Port Harcourt,TV,Electronics,485030,2,Cash,970060
+1457,2025-04-01,2828,Male,46,Ibadan,Fridge,Electronics,271823,4,Card,1087292
+1458,2025-04-02,2815,Male,46,Lagos,Blender,Electronics,306190,1,Card,306190
+1459,2025-04-03,2658,Male,47,Lagos,TV,Home Appliances,256402,1,Transfer,256402
+1460,2025-04-04,2515,Female,33,Kano,Fridge,Electronics,302419,1,Cash,302419
+1461,2025-04-05,2546,Female,57,Kano,Blender,Home Appliances,279817,1,Card,279817
+1462,2025-04-06,2191,Female,36,Port Harcourt,Blender,Electronics,400104,3,Cash,1200312
+1463,2025-04-07,2048,Female,35,Abuja,Laptop,Electronics,375422,3,Cash,1126266
+1464,2025-04-08,2511,Female,18,Ibadan,Laptop,Home Appliances,105077,2,Transfer,210154
+1465,2025-04-09,2016,Female,31,Port Harcourt,Fridge,Home Appliances,162782,4,Cash,651128
+1466,2025-04-10,2171,Female,19,Kano,Blender,Home Appliances,152932,1,Transfer,152932
+1467,2025-04-11,2219,Female,45,Ibadan,Phone,Home Appliances,452744,1,Card,452744
+1468,2025-04-12,2157,Female,47,Kano,Laptop,Home Appliances,493316,4,Cash,1973264
+1469,2025-04-13,2476,Male,55,Ibadan,Fridge,Home Appliances,422013,4,Card,1688052
+1470,2025-04-14,2045,Female,21,Abuja,Blender,Home Appliances,451395,2,Cash,902790
+1471,2025-04-15,2372,Female,18,Port Harcourt,Blender,Home Appliances,360925,4,Card,1443700
+1472,2025-04-16,2517,Female,25,Ibadan,Phone,Electronics,236339,1,Cash,236339
+1473,2025-04-17,2098,Female,46,Lagos,Fridge,Home Appliances,467168,1,Cash,467168
+1474,2025-04-18,2891,Female,56,Lagos,Blender,Home Appliances,365942,1,Cash,365942
+1475,2025-04-19,2744,Female,20,Ibadan,Laptop,Electronics,148696,1,Cash,148696
+1476,2025-04-20,2036,Female,49,Ibadan,Phone,Home Appliances,100939,1,Cash,100939
+1477,2025-04-21,2279,Female,27,Ibadan,Fridge,Electronics,341660,2,Cash,683320
+1478,2025-04-22,2348,Female,27,Lagos,Phone,Electronics,237598,1,Cash,237598
+1479,2025-04-23,2496,Female,36,Lagos,Laptop,Home Appliances,191521,2,Cash,383042
+1480,2025-04-24,2301,Female,51,Ibadan,Fridge,Electronics,100290,1,Cash,100290
+1481,2025-04-25,2180,Male,50,Kano,Phone,Home Appliances,438832,3,Card,1316496
+1482,2025-04-26,2606,Male,40,Kano,TV,Electronics,398805,3,Transfer,1196415
+1483,2025-04-27,2098,Female,45,Abuja,Laptop,Electronics,385098,3,Cash,1155294
+1484,2025-04-28,2699,Female,49,Port Harcourt,Laptop,Electronics,334890,3,Transfer,1004670
+1485,2025-04-29,2992,Male,24,Kano,Laptop,Home Appliances,117990,2,Cash,235980
+1486,2025-04-30,2115,Female,46,Lagos,TV,Home Appliances,108810,2,Cash,217620
+1487,2025-05-01,2190,Male,25,Kano,TV,Electronics,168362,4,Card,673448
+1488,2025-05-02,2252,Male,18,Abuja,Blender,Electronics,196295,1,Card,196295
+1489,2025-05-03,2980,Male,20,Abuja,Phone,Home Appliances,183669,3,Transfer,551007
+1490,2025-05-04,2927,Male,41,Port Harcourt,Blender,Home Appliances,246749,2,Card,493498
+1491,2025-05-05,2982,Male,40,Kano,Phone,Electronics,314803,1,Card,314803
+1492,2025-05-06,2160,Female,25,Lagos,TV,Electronics,136516,1,Transfer,136516
+1493,2025-05-07,2255,Male,54,Lagos,TV,Home Appliances,124567,2,Card,249134
+1494,2025-05-08,2322,Female,20,Ibadan,Blender,Home Appliances,327181,3,Cash,981543
+1495,2025-05-09,2127,Female,50,Lagos,Fridge,Home Appliances,176498,4,Transfer,705992
+1496,2025-05-10,2017,Male,45,Port Harcourt,Blender,Home Appliances,227810,1,Transfer,227810
+1497,2025-05-11,2792,Male,25,Port Harcourt,Phone,Home Appliances,62109,4,Cash,248436
+1498,2025-05-12,2734,Female,51,Lagos,Blender,Electronics,334154,3,Card,1002462
+1499,2025-05-13,2565,Male,52,Lagos,Laptop,Home Appliances,320931,3,Transfer,962793
+1500,2025-05-14,2569,Male,49,Ibadan,Phone,Electronics,289472,4,Transfer,1157888
